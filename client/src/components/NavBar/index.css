@@ -1,0 +1,9 @@
+.nav-buttons{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+}
+.nav-container{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,17 @@
+table{
+    width: 50%;
+    border-collapse: collapse;
+    height: 50%;
+}
+
+table,th,td{
+    border: 1px solid black;
+}
+.checkout-cotainer{
+    height: 100vh;
+}
+
+th{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffff;
+}
